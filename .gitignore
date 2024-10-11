@@ -138,6 +138,6 @@ devbox.json
 devbox.lock
 
 .direnv
-flake.nix
+# flake.nix
 
 .envrc
