@@ -131,3 +131,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/resources/*
+.devbox
+devbox.json
+devbox.lock
+
+.direnv
+flake.nix
+
+.envrc
