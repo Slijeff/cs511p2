@@ -132,7 +132,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-/resources/*
+/resources/tpc-h/data/scale=1/partition=10/*
 .devbox
 devbox.json
 devbox.lock
