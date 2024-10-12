@@ -1,0 +1,5 @@
+services:
+  cs511p2-dev:
+    build: .
+    volumes:
+      - ./:/workspace
