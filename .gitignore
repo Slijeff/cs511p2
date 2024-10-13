@@ -139,5 +139,6 @@ devbox.lock
 
 .direnv
 # flake.nix
+!flake.lock
 
 .envrc
